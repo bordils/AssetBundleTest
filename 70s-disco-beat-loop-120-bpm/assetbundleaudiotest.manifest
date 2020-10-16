@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 530342728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe2483da191b17f4c2a478e87a285c0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles_assetsToBeBundled/70s-disco-beat-loop-120-bpm.wav
+Dependencies: []
